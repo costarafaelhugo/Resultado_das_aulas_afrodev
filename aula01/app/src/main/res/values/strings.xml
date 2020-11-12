@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="meu_primeiro_app">Meu primeiro App!</string>
-    <string name="este_s_um_bot_o1">Este é só um botão</string>
+    <string name="btn_boas_vindas">Clique aqui</string>
+    <string name="btn_01">Por favor, clique aqui</string>
 </resources>
